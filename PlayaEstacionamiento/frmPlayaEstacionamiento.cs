@@ -216,6 +216,8 @@ namespace PlayaEstacionamiento
                         agregarDatosSectores();
                         agregarDatosVehiculos();
                     }
+                    else
+                        cargarVehiculos();
 
                 }
                 if (!cbxTodas.Checked)
@@ -533,6 +535,22 @@ namespace PlayaEstacionamiento
                         continue;
                     }
                     continue;
+                }
+            }
+        }
+
+        private void cargarVehiculos()
+        {
+            for (int i = 0; i < actual.Vehiculos.Count; i++)
+            {
+                Vehiculo vehiculo = actual.Vehiculos.ElementAt(i);
+
+                if (!(i + 1 <= dgvVehiculos.Columns.Count - 1))
+                {
+                    DataGridViewTextBoxColumn columna = new DataGridViewTextBoxColumn();
+                    columna.Name = vehiculo.Nombre;
+                    columna.HeaderText = vehiculo.Nombre;
+                    dgvVehiculos.Columns.Add(columna);
                 }
             }
         }

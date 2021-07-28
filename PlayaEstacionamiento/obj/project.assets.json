@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jncos\\OneDrive\\Facultad\\Cuarto Año\\Simulación\\Final\\PlayaEstacionamiento\\PlayaEstacionamiento.csproj",
+      "projectUniqueName": "C:\\Users\\jncos\\OneDrive\\Documents\\GitHub\\Tp-Simulacion\\PlayaEstacionamientoSimFinal2021\\PlayaEstacionamiento\\PlayaEstacionamiento.csproj",
       "projectName": "PlayaEstacionamiento",
-      "projectPath": "C:\\Users\\jncos\\OneDrive\\Facultad\\Cuarto Año\\Simulación\\Final\\PlayaEstacionamiento\\PlayaEstacionamiento.csproj",
+      "projectPath": "C:\\Users\\jncos\\OneDrive\\Documents\\GitHub\\Tp-Simulacion\\PlayaEstacionamientoSimFinal2021\\PlayaEstacionamiento\\PlayaEstacionamiento.csproj",
       "packagesPath": "C:\\Users\\jncos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jncos\\OneDrive\\Facultad\\Cuarto Año\\Simulación\\Final\\PlayaEstacionamiento\\obj\\",
+      "outputPath": "C:\\Users\\jncos\\OneDrive\\Documents\\GitHub\\Tp-Simulacion\\PlayaEstacionamientoSimFinal2021\\PlayaEstacionamiento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jncos\\AppData\\Roaming\\NuGet\\NuGet.Config",
