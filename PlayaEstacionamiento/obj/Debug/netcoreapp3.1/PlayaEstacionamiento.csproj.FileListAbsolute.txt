@@ -1,0 +1,15 @@
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\bin\Debug\netcoreapp3.1\PlayaEstacionamiento.exe
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\bin\Debug\netcoreapp3.1\PlayaEstacionamiento.deps.json
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\bin\Debug\netcoreapp3.1\PlayaEstacionamiento.runtimeconfig.json
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\bin\Debug\netcoreapp3.1\PlayaEstacionamiento.runtimeconfig.dev.json
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\bin\Debug\netcoreapp3.1\PlayaEstacionamiento.dll
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\bin\Debug\netcoreapp3.1\PlayaEstacionamiento.pdb
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.frmPlayaEstacionamiento.resources
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.csproj.GenerateResource.cache
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.AssemblyInfo.cs
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.dll
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.pdb
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.genruntimeconfig.cache
+C:\Users\jncos\OneDrive\Facultad\Cuarto Año\Simulación\Final\PlayaEstacionamiento\obj\Debug\netcoreapp3.1\PlayaEstacionamiento.csproj.AssemblyReference.cache
